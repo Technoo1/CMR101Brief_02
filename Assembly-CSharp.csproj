@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Mountain Terrain\Misc\CameraDefault.cs" />
     <Compile Include="Assets\Scripts\HoldPlayer.cs" />
     <Compile Include="Assets\Scripts\MovementProvider.cs" />
     <Compile Include="Assets\Scripts\MovingPlatforms.cs" />
